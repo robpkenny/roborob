@@ -1,0 +1,1 @@
+{"detail":{"status":"invalid_authorization_header","message":"Provided authorization header was invalid (Wrong number of segments in token: b'None'): Bearer None"}}
